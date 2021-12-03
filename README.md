@@ -6,7 +6,7 @@ Comments and instructions for "Time Till Damn Xmas Is Finally Over" App (TimeTil
 
 FOREWORD: "I hate Xmas, i really do!" ....please help stop the madness
 
-A) The app works with two known issue (see point D and G)
+A) The app works with two known issues (see point D and G)
 
 B) HW/SW Platform: M5 Stack Core 2 (yellow/touch) & UI Flow V1.8.7 (webbased) 
 
