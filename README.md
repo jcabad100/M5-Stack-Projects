@@ -30,7 +30,7 @@ D) [KNOWN ISSUE 1] The playing of the audio file is BLOCKING i.e. the UI is froz
 
 F) IMPOPRTANT: The App needs WIFI connectivity to get local time from public website 
 
-D) On UiFlow (webbrowser) choose Core2 (appears with gray border, no yellow version( change yoru device API KEY
+D) On UiFlow (https://flow.m5stack.com/) choose Core2 (appears with gray border, no yellow version( change yoru device API KEY
 
 E) Open the *.m5f app source coude and edit the Wifi SSID and its Password according your local WIFI netwowrk
 
