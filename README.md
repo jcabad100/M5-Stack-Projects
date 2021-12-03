@@ -39,7 +39,7 @@ the time zone index follows the GMT time zone +1 apparently e.g. i am in Shangha
 
 G) [KNOWN ISSUE 2] Sometimes during app boot up the RTC information is the wrong/default one , this is the case when i have VPN on on my host computer and/or when the internet connectivity is poor/unreliable; the only way to "solve it" (workaround) is to try and reboot again. 
 
-H) [KNOEN minor ISSUE 3] Within the Init() function the sL (seconds left) variable is first corectly initialized to 0 and then incorrectly change to FALSE; that second instance must be changed to  initializa bPlayingSong flag to false. In any case the latter is not used in this version (it was intended to change the touch button text while playing the song but it did not work due to issue #1).
+H) [KNOWN minor ISSUE 3] Within the Init() function the sL (seconds left) variable is first corectly initialized to 0 and then incorrectly change to FALSE; that second instance must be changed to  initializa bPlayingSong flag to false. In any case the latter is not used in this version (it was intended to change the touch button text while playing the song but it did not work due to issue #1).
 
 Please dont hesitate to contact me for hobby-like questions to jcabad100@yahoo.com. On the other hand if you need professinal consulting for engineering (HW/SW/ME) or expert sourcing of Chinese high-tech equipment, machinery and/or solutions (no matter which industry) please contact me at:
 
